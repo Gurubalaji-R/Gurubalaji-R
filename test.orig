@@ -1,6 +1,8 @@
 1st line
-<<<<<<< HEAD
-second line
-=======
 2nd line
+<<<<<<< HEAD
+3rd line
+||||||| 827fc17
+=======
+third line
 >>>>>>> con
